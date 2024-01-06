@@ -1,3 +1,4 @@
 # precursohenrry-prueba
-esta es solo una prueba de crear repositorio github
+ hola precurso HENRRY
+ 
 ya hemos clonado y reescrito el commit
